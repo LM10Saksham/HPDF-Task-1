@@ -11,3 +11,8 @@
   <li>You will have the Twitter Timeline running on your browser. <br/><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/Mainpage.png" /></li>
   </ol>
   
+  <h2>B. Instructions to run the React App- Twitter SearcPage (AADHAAR)</h2>
+  <ol>
+  <li>Type <strong>'aadhaar'</strong> in the Search Box and <strong>click on the Search Icon. </strong></li>
+  <li>You will have the Twitter Aadhaar SearchPage running on the browser<br/><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/SearchPage.png" /></li> 
+ 

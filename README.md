@@ -8,4 +8,4 @@
   <li>Run <strong>npm install</strong> from your terminal to install all dependencies.</li>
   <li>Run <strong>npm start</strong> from your terminal to start the server in development mode.</li>
   <li>Head to <a href = "http://localhost:3000">http://localhost:3000</a> on your browser. (if not opned by default)</li>
-  <li>You will have the Twitter Timeline running on your browser.</li>
+  <li>You will have the Twitter Timeline running on your browser. <img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/Mainpage.png" /></li>

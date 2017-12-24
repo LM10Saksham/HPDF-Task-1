@@ -13,5 +13,5 @@
   <h2>B. Instructions to run the React App- Twitter SearcPage (AADHAAR)</h2>
   <ol>
   <li>Type <strong>'aadhaar'</strong> in the Search Box and <strong>click on the Search Icon. </strong></li>
-  <li>You will have the Twitter Aadhaar SearchPage running on the browser  </li></ol> <br/> <span><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/SearchPage.png" /></span>
+  <li>You will have the Twitter Aadhaar SearchPage running on the browser  </li></ol><span><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/SearchPage.png" /></span>
  

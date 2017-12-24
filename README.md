@@ -9,9 +9,9 @@
   <li>Head to <a href = "http://localhost:3000">http://localhost:3000</a> on your browser. (if not opned by default)</li>
   <li>You will have the <strong>Twitter Timeline</strong> running on your browser. <br/> </li> </ol> <span><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/Mainpage.png" /></span>
   
-  <h2>B. Instructions to run the React App- Twitter SearcPage (AADHAAR)</h2>
+  <h2>B. Instructions to run the React App- Twitter SearchPage (AADHAAR)</h2>
   <ol>
-  <li>Type <strong>'aadhaar'</strong> in the Search Box and <strong>click on the Search Icon. </strong></li>
+  <li>Type <strong>'aadhaar'</strong> in the search Box and <strong>click on the Search Icon. </strong></li>
   <li>You will have the <strong>Twitter Aadhaar SearchPage</strong> running on the browser  </li></ol><span><img src = "https://github.com/LM10Saksham/HPDF-Task-1/blob/master/SearchPage.png" /></span>
  
  ~<strong>Saksham Santosh Singh</strong>

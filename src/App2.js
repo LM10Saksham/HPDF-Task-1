@@ -381,8 +381,8 @@ export default class App extends React.Component {
                 <MenuItem primaryText={<span style={{ fontSize: '11px', color: '#657786' }}>Add to new Moment</span>} />
 
             </IconMenu>
-            <img src = {Jadeja} style = {{marginLeft:20, marginTop:10, borderRadius: '50%', height : 50, width : 50}}/>
-            <p style = {{color:'#D3D3D3', marginLeft : 85, marginTop : -50}}><a style = {{color : 'black'}} ><strong>Sir Ravendra Jadeja</strong></a> @SirJadeja . 13h</p>
+            <img src = {Jadeja} style = {{marginLeft:18, marginTop:10, borderRadius: '50%', height : 50, width : 50}}/>
+            <p style = {{color:'#D3D3D3', marginTop : -50}}><a style = {{color : 'black', marginLeft : 85}} ><strong>Sir Ravendra Jadeja</strong></a> @SirJadeja . 13h</p>
             <div style = {{marginLeft : 85, marginRight : 30}}>
             <p>Meanwhile waiting for OLA after <a style = {{color : '#00aced'}}>#VirushkaReception</a></p>
            <CardMedia>
